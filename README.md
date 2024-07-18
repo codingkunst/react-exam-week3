@@ -1,9 +1,9 @@
 > 이노베이션캠프 주특기 3주차
 # React Test
 ### 🌐Setting
-`simhwa-exam-for-student.zip` 다운로드
-`yarn install`
-`yarn start`
+- `simhwa-exam-for-student.zip` 다운로드
+- `yarn install`
+- `yarn start`
 
 ### 💡Goal
 - **Redux toolkit**의 **thunk**와 **비동기 함수**를 이용해서 프로젝트 완성
